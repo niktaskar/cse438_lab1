@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:lab1.xcodeproj">
+      location = "group:/Users/nikashtaskar/Library/Mobile Documents/com~apple~CloudDocs/College/Senior Year/Fall/Mobile App Dev/lab1/lab1/shopping_cart.jpeg">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
